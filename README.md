@@ -1,6 +1,6 @@
 # Invisible-Cloak
 Invisible cloak of color red using python opencv and numpy
-modules require:
-cv2
-numpy
-time
+\n modules require:
+\n cv2
+\n numpy
+\n time
